@@ -1,0 +1,3 @@
+
+{"id":1,"name":"anish","word":"Whiz","wordNo":1,"meening":"Whiz means \u0027move very fast.\u0027 Some things that whiz make a buzzing or hissing sound.","totalWeeks":2,"totalWords":6}
+{"id":1,"name":"anish","word":"Squirm","wordNo":2,"meening":"Squirm means \u0027wiggle or twist your body from side to side, usually because you are bored or uncomfortable.\u0027","totalWeeks":2,"totalWords":6}
