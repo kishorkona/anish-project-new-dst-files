@@ -1,0 +1,38 @@
+<Vocabulary>
+	<Week>
+		<Id>1</Id>
+		<WeekNo>2</WeekNo>
+		<GradeNo>4</GradeNo>
+		<WordName>volenteer</WordName>
+		<HasSound>false</HasSound>
+		<Meening>Volunteer means 'offer to do something or help someone by choice.' When you volunteer, you do something because you want to do it. You do not expect pay or a reward.</Meening>
+		<Enable>true</Enable>
+	</Week>
+	<Week>
+		<Id>2</Id>
+		<WeekNo>2</WeekNo>
+		<GradeNo>4</GradeNo>
+		<WordName>bustle</WordName>
+		<HasSound>false</HasSound>
+		<Meening>Bustle mean 'rush or hurry in an excited. noisy, or busy way.'</Meening>
+		<Enable>true</Enable>
+	</Week>
+	<Week>
+		<Id>3</Id>
+		<WeekNo>2</WeekNo>
+		<GradeNo>4</GradeNo>
+		<WordName>debris</WordName>
+		<HasSound>false</HasSound>
+		<Meening>Debris is the 'scattered pieces of something that has been thrown away, broken, or destroyed.'</Meening>
+		<Enable>true</Enable>
+	</Week>
+	<Week>
+		<Id>4</Id>
+		<WeekNo>2</WeekNo>
+		<GradeNo>4</GradeNo>
+		<WordName>devastate</WordName>
+		<HasSound>false</HasSound>
+		<Meening>Devastate mean 'destroy or badly damage.'</Meening>
+		<Enable>true</Enable>
+	</Week>
+</Vocabulary>

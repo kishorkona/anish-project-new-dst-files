@@ -1,0 +1,47 @@
+<Vocabulary>
+	<Week>
+		<Id>1</Id>
+		<WeekNo>3</WeekNo>
+		<GradeNo>4</GradeNo>
+		<WordName>Convince</WordName>
+		<HasSound>false</HasSound>
+		<Meening>Convince means 'make someone beleve something or decide to do something.'</Meening>
+		<Enable>true</Enable>
+	</Week>
+	<Week>
+		<Id>2</Id>
+		<WeekNo>3</WeekNo>
+		<GradeNo>4</GradeNo>
+		<WordName>Hurl</WordName>
+		<HasSound>false</HasSound>
+		<Meening>Hurl means 'throw something hard and fast.'</Meening>
+		<Enable>true</Enable>
+	</Week>
+	<Week>
+		<Id>3</Id>
+		<WeekNo>3</WeekNo>
+		<GradeNo>4</GradeNo>
+		<WordName>Pester</WordName>
+		<HasSound>false</HasSound>
+		<Meening>Pester means 'keep bothering or annoying someone.'</Meening>
+		<Enable>true</Enable>
+	</Week>
+	<Week>
+		<Id>4</Id>
+		<WeekNo>3</WeekNo>
+		<GradeNo>4</GradeNo>
+		<WordName>Glare</WordName>
+		<HasSound>false</HasSound>
+		<Meening>Glare means 'look at someone or something in an angry way.'</Meening>
+		<Enable>true</Enable>
+	</Week>
+	<Week>
+		<Id>5</Id>
+		<WeekNo>3</WeekNo>
+		<GradeNo>4</GradeNo>
+		<WordName>Overalls</WordName>
+		<HasSound>false</HasSound>
+		<Meening>Overalls are 'pants with sholder straps and a top part that covers the chest.' Overalls can be worn over other clothing.</Meening>
+		<Enable>true</Enable>
+	</Week>
+</Vocabulary>
