@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.anish'
+version = '0.0.1-SNAPSHOT'
+description = 'destination files'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(25)
+    }
+}
+
+repositories {
+    mavenCentral()
+}
+
